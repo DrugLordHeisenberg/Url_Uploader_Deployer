@@ -4,4 +4,4 @@ This is repo that can be used to deploy [Url Uploader](https://github.com/TGExpl
 
 #Heroku Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
