@@ -1,4 +1,4 @@
-# Url_Uploader_Deployer
+# Url Uploader Deployer
 
 This is repo that can be used to deploy [Url Uploader](https://github.com/TGExplore/TG-URL-Uploader)
 
